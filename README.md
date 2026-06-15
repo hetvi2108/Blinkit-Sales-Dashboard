@@ -53,19 +53,6 @@ Blinkit-Sales-Dashboard/
 ├── dashboard_screenshot.png
 └── BlinkIT Grocery Data.xlsx
 ```
-
----
-
-## 📷 Dashboard Preview
-
-> Add screenshots of your dashboard here.
-
-Example:
-
-```markdown
-![Dashboard Preview](dashboard_screenshot.png)
-```
-
 ---
 
 ## 🔍 Key Insights
